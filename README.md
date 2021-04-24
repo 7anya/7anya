@@ -1,7 +1,7 @@
 # Hi ! Welcome to my page
 
 
-**I am Tanya,20 from BiTS PILANI India.** 
+**I am Tanya,20, from BITS PILANI India.** 
 
 **I do Web Dev, App dev, neural networks and networks related stuff**
 
