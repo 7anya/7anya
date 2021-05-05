@@ -9,5 +9,7 @@
 - Go
 - Python
 - flutter
+- C++
+- C
 
 Contact me on: F20181054@hyderabad.bits-pilani.ac.in
