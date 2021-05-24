@@ -14,4 +14,4 @@
 
 Contact me on: F20181054@hyderabad.bits-pilani.ac.in
 
-P.S bored?Play a game on https://maruyari.github.io/ :P
+P.S bored?Play a game on https://7anya.github.io/ :P
