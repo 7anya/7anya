@@ -1,6 +1,6 @@
 # Hi ! Welcome to my page
 
-[![Visits Badge](https://badges.pufler.dev/visits/maruyari/maruyari)](https://github.com/maruyari/maruyari?color=blue)
+[![Visits Badge](https://badges.pufler.dev/visits/7anya/7anya)](https://github.com/maruyari/maruyari?color=blue)
 
 **I am Tanya,20, from BITS PILANI India.** 
 
