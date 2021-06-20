@@ -6,7 +6,7 @@
 
 - Google Summer of Code 2021
 - Intern at Redhat summer 2021
-- Researh in MPTCP/MPQUIC
+- Research in MPTCP/MPQUIC
 
 **I do Web Dev, App dev, neural networks and networks related stuff**
 
