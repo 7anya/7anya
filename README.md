@@ -4,11 +4,8 @@
 
 **I am Tanya from BITS Pilani, India.** 
 
-- Google Summer of Code 2021
-- Intern at Redhat summer 2021
-- Research in MPTCP/MPQUIC
 
-**I do Web Dev, App dev, neural networks and networks related stuff**
+**I do Web Dev, App dev, OS, networks related stuff**
 
 - Go
 - Python
