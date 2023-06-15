@@ -13,7 +13,7 @@
 - C++
 - C
 
-Website: https://7anya.github.io/web/#/
+Website: https://tanyaprasad.com
 
 Contact me on: F20181054@hyderabad.bits-pilani.ac.in
 
