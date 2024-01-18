@@ -15,6 +15,6 @@
 
 Website: https://tanyaprasad.com
 
-Contact me on: F20181054@hyderabad.bits-pilani.ac.in
+Contact me on: tanyapsd@cs.ubc.ca
 
 P.S bored?Play a game on https://7anya.github.io/ :P
