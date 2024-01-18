@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/7anya/7anya)](https://github.com/maruyari/maruyari?color=blue)
 
-**I am Tanya from BITS Pilani, India.** 
+**I am Tanya from University of British Columbia Vancouver ** 
 
 
 **I do Web Dev, App dev, OS, networks related stuff**
