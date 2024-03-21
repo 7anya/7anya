@@ -4,17 +4,8 @@
 
 **I am Tanya from University of British Columbia Vancouver ** 
 
-
-**I do Web Dev, App dev, OS, networks related stuff**
-
-- Go
-- Python
-- flutter
-- C++
-- C
-
 Website: https://tanyaprasad.com
 
 Contact me on: tanyapsd@cs.ubc.ca
 
-P.S bored?Play a game on https://7anya.github.io/ :P
+P.S bored? Play a game on https://7anya.github.io/ :P
