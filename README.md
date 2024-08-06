@@ -4,7 +4,7 @@
 
 **I am Tanya from the University of British Columbia Vancouver ** 
 
-Website: https://tanya-prasad.com
+Website: https://www.tanya-prasad.com
 
 Contact me on: tanyapsd@cs.ubc.ca
 
